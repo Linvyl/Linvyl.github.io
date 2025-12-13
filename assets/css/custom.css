@@ -1,0 +1,7 @@
+/* Override sidebar avatar */
+.author__avatar img {
+  border-radius: 6px;        /* hoặc 0 nếu muốn vuông hẳn */
+  max-width: 160px;          /* chỉnh theo ảnh */
+  height: auto;
+  object-fit: cover;
+}
