@@ -86,7 +86,7 @@ During my role as a Support Teaching Assistant at AI VIETNAM (AIVN), I contribut
 
 - **Machine Learning & Deep Learning:** Vision–Language Models, CNNs, Transformers, Diffusion Models
 - **Computer Vision:** Face recognition, document understanding, text-rich image analysis
-- **Programming:** Python, PyTorch, basic JAX
+- **Programming:** Python, PyTorch, R (Basic), LATEX 
 - **Research Skills:** Experimental design, ablation studies, paper writing, reproducibility
 
 ---
