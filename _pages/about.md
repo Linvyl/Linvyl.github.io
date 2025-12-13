@@ -12,7 +12,6 @@ I'm an AI researcher working on vision-language models, multimodal learning, and
 University of Science and Technology of Hanoi (USTH), Vietnam  
 *2020 – 2023*
 
----
 
 ## Research Experience
 
@@ -32,8 +31,6 @@ Institute of Information Technology (IOIT), VAST
 - Worked on a deep learning–based facial authentication system for secure login.
 - Designed and implemented an end-to-end pipeline including data preprocessing, face detection and alignment, and Siamese-network-based embedding learning.
 - Gained experience in debugging vision pipelines and handling noisy, imbalanced data.
-
----
 
 ## Teaching Experience
 
@@ -67,7 +64,6 @@ During my role as a Support Teaching Assistant at AI VIETNAM (AIVN), I contribut
 - [Decision Tree Demo](https://huggingface.co/spaces/VLAI-AIVN/AIO2025M03_DEMO_DECISION_TREE/tree/main)
 - [Gradient Boosting Demo](https://huggingface.co/spaces/VLAI-AIVN/AIO2025M03_DEMO_GRADIENT_BOOSTING)
 
----
 
 ## Publications
 {% if site.author.googlescholar %}
@@ -97,7 +93,6 @@ During my role as a Support Teaching Assistant at AI VIETNAM (AIVN), I contribut
   {% endfor %}
 {% endif %}
 
----
 
 ## Skills
 
@@ -106,7 +101,6 @@ During my role as a Support Teaching Assistant at AI VIETNAM (AIVN), I contribut
 - **Programming:** Python, PyTorch, R (Basic), LATEX 
 - **Research Skills:** Experimental design, ablation studies, paper writing, reproducibility
 
----
 
 ## Service and Academic Activities
 
