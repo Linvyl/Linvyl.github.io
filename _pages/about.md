@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: "Yen-Linh Vu | AI Researcher"
 author_profile: true
 ---
 
