@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "Vu Yen Linh | AI Researcher"
+permalink: /about/
+title: "About"
 author_profile: true
 ---
 
