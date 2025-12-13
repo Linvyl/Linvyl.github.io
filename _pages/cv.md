@@ -41,7 +41,7 @@ Institute of Information Technology (IOIT), VAST
 ## Teaching Experience
 
 **Support Teaching Assistant (STA)**  
-AI VIETNAM (AIVN) - AIO2024–2025 Programme  
+AI VIETNAM (AIVN) - (AIO2024 - 2025 Programme)  
 *2024 – Present*  
 
 - Assisted in lesson preparation, technical documentation, and demonstration code development.
