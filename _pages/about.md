@@ -80,7 +80,7 @@ During my role as a Support Teaching Assistant at AI VIETNAM (AIVN), I contribut
       {% endif %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
+        {% assign title_shown = false %}
       {% endunless %}
       {% include archive-single.html %}
     {% endfor %}
