@@ -81,11 +81,15 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  // display: table-cell;
+  // vertical-align: top;
+  // width: 36px;
+  // // set width only, for non-square avatars
+  // // height: 36px;
+  border-radius: 6px;        /* hoặc 0 nếu muốn vuông hẳn */
+  max-width: 160px;          /* chỉnh theo ảnh */
+  height: auto;
+  object-fit: cover;}
 
   @include breakpoint($large) {
     display: block;
