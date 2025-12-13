@@ -48,32 +48,34 @@ AI VIETNAM (AIVN) — AIO2024–2025 Programme
 - Contributed to instructional materials for foundational and advanced machine learning topics, including linear regression, decision trees, gradient boosting, LightGBM, variational autoencoders, and diffusion models.
 - Collaborated closely with instructors to improve clarity and structure of teaching materials.
 
+During my role as a Support Teaching Assistant at AI VIETNAM (AIVN), I contributed to the development of structured teaching materials and hands-on demonstrations for the AIO2024–2025 programme. Selected materials include:
+
+### Step-by-step, math-oriented tutorials
+- [Introduction to Gaussian Distribution and Central Limit Theorem](https://www.facebook.com/share/p/17W8DiLEKE/)
+- [Vectorized Linear Regression](https://www.facebook.com/share/p/1C7s1bWpT1/)
+- [Decision Tree Classification](https://www.facebook.com/share/p/19j1ALpPdU/)
+- [Decision Tree Regression](https://www.facebook.com/share/p/1Hf87MEtRW/)
+- [Vision Transformer (introductory tutorial)](https://aivietnam.edu.vn/blog/vision-transformer#d%E1%BA%ABn-nh%E1%BA%ADp)
+- [Gradient Boosting](https://www.facebook.com/share/p/17fgCYArun/)
+- [LightGBM](https://www.facebook.com/share/p/1JZxkAZape/)
+
+### Model- and project-oriented articles
+- [Knowledge Distillation with CNNs](https://aivietnam.edu.vn/blog/chuyen-giao-tri-thuc-pytorch#gi%E1%BB%9Bi-thi%E1%BB%87u)
+- [Instrumental Music Generation with Variational Autoencoders](https://www.facebook.com/share/p/1FZyvZ537f/)
+- [Emoji Image Generation using Diffusion Models](https://www.facebook.com/share/p/17i5UXqL99/)
+- [Poem Generation with a Fine-tuned GPT-2 Model](https://www.facebook.com/share/p/17Cozz1rCz/)
+
+### Interactive demos (Hugging Face Spaces)
+- [Poem Generation Demo](https://huggingface.co/spaces/VLAI-AIVN/AIO2024M08_Poem_Generation)
+- [Decision Tree Demo](https://huggingface.co/spaces/VLAI-AIVN/AIO2025M03_DEMO_DECISION_TREE/tree/main)
+- [Gradient Boosting Demo](https://huggingface.co/spaces/VLAI-AIVN/AIO2025M03_DEMO_GRADIENT_BOOSTING)
+
 ---
 
 ## Publications
 
 <ul>
 {% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
-
----
-
-## Talks and Presentations
-
-<ul>
-{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}
-</ul>
-
----
-
-## Teaching Materials
-
-<ul>
-{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
