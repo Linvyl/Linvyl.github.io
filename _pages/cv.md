@@ -19,14 +19,6 @@ University of Science and Technology of Hanoi (USTH), Vietnam
 
 ## Research Experience
 
-**AI Research Member**  
-AI VIETNAM (AIVN)  
-*2023 – 2025*  
-
-- Conducted research on vision–language models and visual question answering.
-- Contributed to international workshop publications at AAAI and ICCV.
-- Participated in reading groups, research discussions, and collaborative experiments.
-
 **AI Research Intern**  
 Department of Pattern Recognition and Knowledge Engineering (PRaKE)  
 Institute of Information Technology (IOIT), VAST  
@@ -41,7 +33,7 @@ Institute of Information Technology (IOIT), VAST
 ## Teaching Experience
 
 **Support Teaching Assistant (STA)**  
-AI VIETNAM (AIVN) — AIO2024–2025 Programme  
+AI VIETNAM (AIVN) - AIO2024–2025 Programme  
 *2024 – Present*  
 
 - Assisted in lesson preparation, technical documentation, and demonstration code development.
