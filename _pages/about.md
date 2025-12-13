@@ -73,14 +73,14 @@ During my role as a Support Teaching Assistant at AI VIETNAM (AIVN), I contribut
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
+    {% assign title_shown = true %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = false %}
+        {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
     {% endfor %}
