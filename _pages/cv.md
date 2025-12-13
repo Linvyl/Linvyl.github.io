@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,87 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**B.Sc. in Information and Communication Technology (ICT)**  
+University of Science and Technology of Hanoi (USTH), Vietnam  
+*2020 – 2023*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**AI Research Member**  
+AI VIETNAM (AIVN)  
+*2023 – 2025*  
+
+- Conducted research on vision–language models and visual question answering.
+- Contributed to international workshop publications at AAAI and ICCV.
+- Participated in reading groups, research discussions, and collaborative experiments.
+
+**AI Research Intern**  
+Department of Pattern Recognition and Knowledge Engineering (PRaKE)  
+Institute of Information Technology (IOIT), VAST  
+*Apr 2023 – Oct 2023*  
+
+- Worked on a deep learning–based facial authentication system for secure login.
+- Designed and implemented an end-to-end pipeline including data preprocessing, face detection and alignment, and Siamese-network-based embedding learning.
+- Gained experience in debugging vision pipelines and handling noisy, imbalanced data.
+
+---
+
+## Teaching Experience
+
+**Support Teaching Assistant (STA)**  
+AI VIETNAM (AIVN) — AIO2024–2025 Programme  
+*2024 – Present*  
+
+- Assisted in lesson preparation, technical documentation, and demonstration code development.
+- Contributed to instructional materials for foundational and advanced machine learning topics, including linear regression, decision trees, gradient boosting, LightGBM, variational autoencoders, and diffusion models.
+- Collaborated closely with instructors to improve clarity and structure of teaching materials.
+
+---
+
+## Publications
+
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+---
+
+## Talks and Presentations
+
+<ul>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
+
+---
+
+## Teaching Materials
+
+<ul>
+{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+---
+
+## Skills
+
+- **Machine Learning & Deep Learning:** Vision–Language Models, CNNs, Transformers, Diffusion Models
+- **Computer Vision:** Face recognition, document understanding, text-rich image analysis
+- **Programming:** Python, PyTorch, basic JAX
+- **Research Skills:** Experimental design, ablation studies, paper writing, reproducibility
+
+---
+
+## Service and Academic Activities
+
+- Research member at AI VIETNAM (AIVN)
+- Contributor to open-source research codebases associated with published work
