@@ -60,14 +60,14 @@ Institute of Information Technology (IOIT), VAST
 ## Teaching Experience
 
 **Support Teaching Assistant (STA)**  
-AI VIETNAM (AIVN) - (AIO2024 - 2025 Programme)  
+AI VIETNAM (AIVN)
 *2024 – Present*  
 
 - Assisted in lesson preparation, technical documentation, and demonstration code development.
 - Contributed to instructional materials for foundational and advanced machine learning topics, including linear regression, decision trees, gradient boosting, LightGBM, variational autoencoders, and diffusion models.
 - Collaborated closely with instructors to improve clarity and structure of teaching materials.
 
-During my role as a Support Teaching Assistant at AI VIETNAM (AIVN), I contributed to the development of structured teaching materials and hands-on demonstrations for the AIO2024–2025 programme. Selected materials include:
+During my role as a Support Teaching Assistant at AI VIETNAM (AIVN), I contributed to the development of structured teaching materials and hands-on demonstrations for the AIO2024-2025 programme. Selected materials include:
 
 ### Step-by-step, math-oriented tutorials
 - [Introduction to Gaussian Distribution and Central Limit Theorem](https://www.facebook.com/share/p/17W8DiLEKE/)
