@@ -17,27 +17,30 @@ My research has resulted in publications at international venues, including ICCV
   <em>* denotes equal contribution.</em>
 </p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h3>{{ category[1].title }}</h3>
-        <hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p style="font-size: 0.9em;">
+<em>* denotes equal contribution.</em>
+</p>
+
+### **Describe Anything Model for Visual Question Answering on Text-rich Images**
+
+**<strong>Yen-Linh Vu*</strong>, Dinh-Thang Duong*, Truong-Binh Duong, Anh-Khoi Nguyen,  
+Thanh-Huy Nguyen, Le Thien Phuc Nguyen, Jianhua Xing, Xingjian Li,  
+Tianyang Wang, Ulas Bagci, Min Xu**
+
+<em>Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCV Workshops – VisionDocs)</em>, 2025  
+
+[📄 Paper](https://openaccess.thecvf.com/content/ICCV2025W/VisionDocs/papers/Vu_Describe_Anything_Model_for_Visual_Question_Answering_on_Text-rich_Images_ICCVW_2025_paper.pdf) ·
+[💻 Code](https://github.com/Linvyl/DAM-QA)
+
+### **Enhancing Vietnamese VQA through Curriculum Learning on Raw and Augmented Text Representations**
+
+Khoi Anh Nguyen*, **<strong>Yen-Linh Vu*</strong>, Thang Dinh Duong,  
+Thuan Nguyen Duong, Huy Thanh Nguyen, Vinh Quang Dinh  
+
+<em>Proceedings of the AAAI Workshop on Document Understanding and Intelligence</em>, 2025  
+
+[📄 Paper](https://arxiv.org/abs/2503.03285) ·
+[💻 Code](https://github.com/wjnwjn59/CLAugViVQA)
 
 ## Research Experience
 
