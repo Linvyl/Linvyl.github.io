@@ -13,6 +13,10 @@ My research has resulted in publications at international venues, including ICCV
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<p style="font-size: 0.9em;">
+  <em>* denotes equal contribution.</em>
+</p>
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
