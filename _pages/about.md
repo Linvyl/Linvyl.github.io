@@ -19,7 +19,7 @@ My research has resulted in publications at international venues, including ICCV
 
 ### **Describe Anything Model for Visual Question Answering on Text-rich Images**
 
-**Yen-Linh Vu***, Dinh-Thang Duong*, Truong-Binh Duong, Anh-Khoi Nguyen,  
+**Yen-Linh Vu\***, Dinh-Thang Duong\*, Truong-Binh Duong, Anh-Khoi Nguyen,  
 Thanh-Huy Nguyen, Le Thien Phuc Nguyen, Jianhua Xing, Xingjian Li,  
 Tianyang Wang, Ulas Bagci, Min Xu**
 
@@ -30,7 +30,7 @@ Tianyang Wang, Ulas Bagci, Min Xu**
 
 ### **Enhancing Vietnamese VQA through Curriculum Learning on Raw and Augmented Text Representations**
 
-Khoi Anh Nguyen*, **Yen-Linh Vu***, Thang Dinh Duong,  
+Khoi Anh Nguyen\*, **Yen-Linh Vu\***, Thang Dinh Duong,  
 Thuan Nguyen Duong, Huy Thanh Nguyen, Vinh Quang Dinh  
 
 <em>Proceedings of the AAAI Workshop on Document Understanding and Intelligence</em>, 2025  
