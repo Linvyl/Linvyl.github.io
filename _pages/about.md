@@ -3,9 +3,7 @@ permalink: /
 author_profile: true
 ---
 
-## Yen-Linh Vu's Homepage
-
-## About me
+**About me**:
 Hi! I’m Linh, an AI researcher interested in computer vision, multimodal learning, and vision-language models. My research focuses on multimodal understanding, including text-rich images, documents, and tasks that require joint visual and textual reasoning, with Visual Question Answering (VQA) as one of my main research topics. I received my B.Sc. in Information and Communication Technology from the University of Science and Technology of Hanoi (USTH). My research experience includes work at the Institute of Information Technology (IOIT), Vietnam Academy of Science and Technology, where I worked on deep learning-based face authentication, and at AI VIETNAM (AIVN), where I expanded my research to natural language processing, VQA, and multimodal reasoning, while also supporting research and teaching activities.
 
 My research has resulted in publications at international venues, including ICCV Workshops (VisionDocs 2025) and the AAAI Workshop on Document Understanding and Intelligence (2025). I am currently interested in building robust and practical multimodal AI systems, especially for document understanding and real-world vision-language applications.
