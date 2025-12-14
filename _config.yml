@@ -98,12 +98,10 @@ timezone: Etc/UTC
 # Plugins (GitHub Pages safe)
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-gist
   - jemoji
 
 whitelist:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-gist
   - jemoji
