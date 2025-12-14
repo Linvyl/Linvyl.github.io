@@ -17,10 +17,6 @@ My research has resulted in publications at international venues, including ICCV
   <em>* denotes equal contribution.</em>
 </p>
 
-<p style="font-size: 0.9em;">
-<em>* denotes equal contribution.</em>
-</p>
-
 ### **Describe Anything Model for Visual Question Answering on Text-rich Images**
 
 **<strong>Yen-Linh Vu*</strong>, Dinh-Thang Duong*, Truong-Binh Duong, Anh-Khoi Nguyen,  
