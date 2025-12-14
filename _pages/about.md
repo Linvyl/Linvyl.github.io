@@ -86,13 +86,6 @@ During my role as a Support Teaching Assistant at AI VIETNAM (AIVN), I contribut
 - [Decision Tree Demo](https://huggingface.co/spaces/VLAI-AIVN/AIO2025M03_DEMO_DECISION_TREE/tree/main)
 - [Gradient Boosting Demo](https://huggingface.co/spaces/VLAI-AIVN/AIO2025M03_DEMO_GRADIENT_BOOSTING)
 
-## Skills
-
-- **Machine Learning & Deep Learning:** Vision–Language Models, CNNs, Transformers, Diffusion Models
-- **Computer Vision:** Face recognition, document understanding, text-rich image analysis
-- **Programming:** Python, PyTorch, R (Basic), LATEX 
-- **Research Skills:** Experimental design, ablation studies, paper writing, reproducibility
-
 
 ## Service and Academic Activities
 
