@@ -8,12 +8,31 @@ Hi! I’m Linh, an AI researcher interested in computer vision, multimodal learn
 
 My research has resulted in publications at international venues, including ICCV Workshops (VisionDocs 2025) and the AAAI Workshop on Document Understanding and Intelligence (2025). I am currently interested in building robust and practical multimodal AI systems, especially for document understanding and real-world vision-language applications.
 
+## Publications
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
-## Education
-
-**B.Sc. in Information and Communication Technology (ICT)**  
-University of Science and Technology of Hanoi (USTH), Vietnam  
-*2020 – 2023*
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = true %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
 
 
 ## Research Experience
@@ -66,34 +85,6 @@ During my role as a Support Teaching Assistant at AI VIETNAM (AIVN), I contribut
 - [Poem Generation Demo](https://huggingface.co/spaces/VLAI-AIVN/AIO2024M08_Poem_Generation)
 - [Decision Tree Demo](https://huggingface.co/spaces/VLAI-AIVN/AIO2025M03_DEMO_DECISION_TREE/tree/main)
 - [Gradient Boosting Demo](https://huggingface.co/spaces/VLAI-AIVN/AIO2025M03_DEMO_GRADIENT_BOOSTING)
-
-
-## Publications
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = true %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
 
 ## Skills
 
